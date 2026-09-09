@@ -1,0 +1,36 @@
+{
+  "colorPalette": "violet-purple",
+  "glassSurfaces": false,
+  "glassmorphic": true,
+  "entries": [
+    {
+      "id": "20260908-192354-5vih",
+      "title": "Salazierthaous, Valencious Et Moria",
+      "commanders": [
+        "Salazierthaous",
+        "Valencious Et Moria"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-09-09T02:23:54.000Z",
+      "dateEnd": "2026-09-09T03:16:26.860Z",
+      "dateLabel": "9/8/2026, 7:23:54 PM - 9/8/2026, 8:16:26 PM",
+      "url": "https://Salazierthous.github.io/axibuilds/?report=20260908-192354-5vih",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 13,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 21
+      }
+    }
+  ]
+}
